@@ -1,11 +1,25 @@
-# Advanced LMS Portal
+# 🎓 Advanced LMS Portal
 
-A modern Learning Management System (LMS) built using React.js, Vite, Tailwind CSS, and React Router.
+A modern Learning Management System (LMS) built using React.js, Vite, Tailwind CSS, and React Router. The application provides students with an interactive dashboard to manage courses, assignments, live classes, certificates, profile, and settings.
 
-## Features
+---
+
+## 🚀 Live Demo
+
+https://lms-portal-psi-two.vercel.app
+
+---
+
+## 📂 GitHub Repository
+
+https://github.com/konavenkatesh23/LMS-Portal
+
+---
+
+## ✨ Features
 
 - User Authentication
-- Dashboard
+- Student Dashboard
 - My Courses
 - Course Details
 - Video Learning
@@ -16,7 +30,9 @@ A modern Learning Management System (LMS) built using React.js, Vite, Tailwind C
 - Settings
 - Responsive Design
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 - React.js
 - Vite
@@ -24,17 +40,96 @@ A modern Learning Management System (LMS) built using React.js, Vite, Tailwind C
 - React Router DOM
 - JavaScript (ES6)
 - React Icons
-- jsPDF
 
-## Installation
+---
+
+## 📁 Project Structure
+
+src/
+│
+├── assets/
+├── components/
+├── data/
+├── pages/
+├── routes/
+├── App.jsx
+└── main.jsx
+
+---
+
+## 📦 Installation
+
+Clone the repository
 
 ```bash
 git clone https://github.com/konavenkatesh23/LMS-Portal.git
+```
+
+Move into project
+
+```bash
 cd LMS-Portal
+```
+
+Install dependencies
+
+```bash
 npm install
+```
+
+Run the project
+
+```bash
 npm run dev
 ```
 
-## Author
+Open browser
 
-**Kona Venkatesh**
+```
+http://localhost:5173
+```
+
+---
+
+## 📸 Modules
+
+- Login
+- Register
+- Dashboard
+- My Courses
+- Course Details
+- Video Learning
+- Live Classes
+- Assignments
+- Certificates
+- Profile
+- Settings
+
+---
+
+## 🌐 Deployment
+
+The project is deployed using Vercel.
+
+---
+
+## 🔮 Future Enhancements
+
+- Backend Integration
+- Student Progress Tracking
+- Online Quiz Module
+- Payment Gateway
+- Attendance Management
+- Admin Dashboard
+- Notifications
+- Chat System
+
+---
+
+## 👨‍💻 Author
+
+Kona Venkatesh
+
+B.Tech CSE
+
+Centurion University of Technology and Management
